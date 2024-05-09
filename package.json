@@ -61,7 +61,7 @@
     "langchain": "^0.0.144",
     "open": "^9.1.0",
     "pathe": "^1.1.1",
-    "postcss": "^8.4.24",
+    "postcss": "^8.4.31",
     "rimraf": "^5.0.1",
     "tailwindcss": "^3.3.2",
     "typescript": "^5.0.2",
